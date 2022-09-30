@@ -1,4 +1,4 @@
-package P02DataTypesAndVariablesExcercise;
+package P02DataTypesAndVariablesExercise;
 
 import java.util.Scanner;
 
